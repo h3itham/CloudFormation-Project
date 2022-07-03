@@ -1,0 +1,35 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "test"
+    },
+    {
+        "ParameterKey": "VPCCIDR",
+        "ParameterValue": "10.0.0.0/16"
+    },
+    {
+        "ParameterKey": "PrivateSubnet1Range",
+        "ParameterValue": "10.0.1.0/24"
+    },
+
+    {
+        "ParameterKey": "PrivateSubnet2Range",
+        "ParameterValue": "10.0.2.0/24"
+    },
+
+    {
+        "ParameterKey": "PublicSubnet1Range",
+        "ParameterValue": "10.0.3.0/24"
+    },
+    {
+        "ParameterKey": "PublicSubnet2Range",
+        "ParameterValue": "10.0.4.0/24"
+    },
+
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.medium"
+    }
+
+  
+]
